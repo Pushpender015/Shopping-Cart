@@ -112,8 +112,4 @@ npm start
 - `test`: Runs the test suite.
 - `eject`: Ejects the Create React App configuration.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
