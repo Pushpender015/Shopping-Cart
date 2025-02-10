@@ -10,7 +10,6 @@ This is a simple shopping cart application built with React, Redux, and Tailwind
 - Usage
 - Dependencies
 - Scripts
-- License
 
 ## Features
 
