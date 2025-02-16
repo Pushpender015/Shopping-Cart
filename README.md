@@ -1,4 +1,4 @@
-# Shopping Cart Application
+# Shopping Cart Application 
 
 This is a simple shopping cart application built with React, Redux, and Tailwind CSS. The application allows users to browse products, add them to the cart, and view the cart summary.
 
